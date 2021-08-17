@@ -6,6 +6,7 @@
   - [Table of contents](#table-of-contents)
   - [Description](#description)
   - [User Story](#user-story)
+  - [Screenshots](#screenshots)
   - [Deployed Link](#deployed-link)
   - [Github Repository](#github-repository)
 
@@ -32,6 +33,26 @@ THEN I find that the app uses Redux instead of the Context API
 WHEN I review the way the app dispatches actions
 THEN I find that the app uses Redux instead of the Context API
 ```
+
+## Screenshots
+
+Signup Page
+![Signup Page](./assets/images/redux-store-signup.png)
+
+All Products Page
+![All Products Page](./assets/images/redux-store-all-products.png)
+
+Logged Out Product Page
+![Logged Out Product Page](./assets/images/redux-store-logged-out-products.png)
+
+Logged In Product Page
+![Logged In Product Page](./assets/images/redux-store-logged-in-products.png)
+
+Checkout Page
+![Checkout Page](./assets/images/redux-store-chekcout-stripe.png)
+
+Order History
+![Order History](./assets/images/redux-store-orer-history.png)
 
 ## Deployed Link
 
